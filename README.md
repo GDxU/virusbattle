@@ -26,4 +26,4 @@ Virus Battle 遵循 [Apache 协议]，使用时请标注[原作者]。
 
  **项目展示** 
 
-![Author 星神](https://git.oschina.net/uploads/images/2017/0625/124600_f6686ecb_333485.png "Virus Battle")
+![Author 星神](https://git.oschina.net/uploads/images/2017/0625/140427_e540fc5a_333485.png "Virus Battle")
