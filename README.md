@@ -22,7 +22,7 @@ Android
 
  **开源许可** 
 
-Virus Battle 遵循 [Apache 协议](https://git.oschina.net/TickStudio/virus-battle/blob/master/LICENSE)，使用时请标注[原作者](https://my.oschina.net/TickStudio)。
+Virus Battle 遵循 [Apache 协议](https://git.oschina.net/TickStudio/virus-battle/blob/master/LICENSE)，使用时请标注[原作者](https://git.oschina.net/venscn)。
 
  **项目展示** 
 
